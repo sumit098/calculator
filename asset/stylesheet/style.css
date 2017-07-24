@@ -1,0 +1,37 @@
+
+
+/*
+=======================
+calculator
+=======================
+*/
+body{
+	background-image: url(../image/wallpap.jpg);
+}
+div.color{
+	background: rgba(0,0,0,0.4);
+	padding: 50px 30px;
+}
+
+
+
+div.container{
+	width: 480px;
+}
+
+button{
+	font-size: 30px;
+    padding: 0px 25px;
+    margin: 7px 7px 7px 7px;
+}
+input#display{
+	margin-bottom: 40px;
+    width: 320px;
+    height: 40px;
+}
+
+
+table.center{
+	width: 300px;
+	margin-left: 37px;
+}
